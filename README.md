@@ -25,3 +25,6 @@ This task consists of identifying various failure modes associated with vehicle 
 
 Now faults are injected into camera image frames to simulate real-time errors in autonomous cars. As an input to the AI model of the autonomous car, the camera on the autonomous car provides image frames at a rate of 30 frames per second. We therefore need a Fault Injection Module (FIM) in order to inject the camera-based faults into the image frames. The Fault Injection Module (FIM) is a Python interface that allows selecting single or multiple faults to be injected, as well as selecting the intensity of the fault to be injected.
 
+![FIM](https://user-images.githubusercontent.com/117833435/205360071-800a1b06-1a23-4ed7-b978-d95d9474409b.jpg)
+
+
