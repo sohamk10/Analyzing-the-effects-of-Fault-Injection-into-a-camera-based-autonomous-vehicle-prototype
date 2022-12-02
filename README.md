@@ -37,6 +37,8 @@ values of the input image to produce a new image.The filters to manipulate the B
 Sharpness, Colour and Contrast were created using the PIL module ImageEnhance using
 separate functions.
 
+![blur](https://user-images.githubusercontent.com/117833435/205360989-bc7267d7-5e16-429f-b789-162212ea0dbb.png)  
+
 2. Image superimposition filters  
 Image superimposition is a image processing technique for coping the image data from
 one image over the other. This technique is used to implement faults related to changes
@@ -66,9 +68,9 @@ the number of blurred circles to be drawn is small and for heavy rainfall the nu
 is large.  
 
 
-![blur](https://user-images.githubusercontent.com/117833435/205360989-bc7267d7-5e16-429f-b789-162212ea0dbb.png)  
 
-![bright](https://user-images.githubusercontent.com/117833435/205361185-76936eb2-1e74-49b1-ad63-6d9adc4c43a4.png)
+
+
 
 
 
