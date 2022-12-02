@@ -54,6 +54,7 @@ Drops of water during the rainy season create a blurring effect on the surface o
 This blurring effect is caused only on the portion where the drop lies on the glass surface.
 Such an effect is created using the pillow library in python.  
 
+
 ■ An image is created in the ’L’ (luminous) mode with the same size as that of the
 camera frame image.  
 ■ Small white circles are drawn on the luminous image at random using the draw.ellipse
@@ -68,12 +69,7 @@ the number of blurred circles to be drawn is small and for heavy rainfall the nu
 is large.  
 
 
-
-
-
-
-
-
+![rain](https://user-images.githubusercontent.com/117833435/205361754-0d0af39f-102c-446a-8532-f08a65a03850.png)  
 
 
 # Fault Injection Module (FIM)
