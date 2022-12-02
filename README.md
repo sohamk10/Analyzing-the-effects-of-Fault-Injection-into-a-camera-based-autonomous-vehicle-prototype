@@ -47,7 +47,8 @@ the camera are superimposed with a mask of the fault to be injected. These masks
 transparent images collected from public domain images on Google. Transparent images
 of dirt, snow, fog, glass crack, rain are used as masking images. These transparent images
 contain opaque regions representing the faults. Only the opaque regions of the transparent
-images are overlayed on the camera image frames. Python Imaging Library (PIL) is a python package used for implementing these faults.
+images are overlayed on the camera image frames.
+Python Imaging Library (PIL) is a python package used for implementing these faults.  
 
 ![dirt](https://user-images.githubusercontent.com/117833435/205362210-a3b7a0fe-86b0-4727-8b7b-8a259282cfc9.png)  
 
@@ -81,7 +82,23 @@ Now faults are injected into camera image frames to simulate real-time errors in
 ![FIM](https://user-images.githubusercontent.com/117833435/205360071-800a1b06-1a23-4ed7-b978-d95d9474409b.jpg)  
 
 
+# Plotting the deviations
 
-
+We have 17 faults in total in the Fault Injection Module (FIM). These faults are further
+divided into Pixel manipulation faults, Image superimposing faults, rain drop blur, Salt
+and Pepper etc. Each of these faults have different levels of intensity variations possible.
+In case of pixel manipulation faults, the intensity can be varied in a range from 1 to 10
+with an increment of 1. For Rain drop blur, the intensity here refers to how heavy the
+rainfall is, which in turn reflects upon the number of raindrops on the surface of the camera.
+The range in this case ranges from 1 to 500.In case of Salt and Pepper, the intensity is a
+probability and hence it ranges between 0 and 1. Likewise, we have carried out the testing
+for 5 levels of intensity variations ranging from the lowest to the highest level for all the
+faults.
+In the figures below, we observe two graphs. The graph to the left is a plot of steering
+values with and without fault injection. The green curve represents the steering values
+without faults, and the red curve represents the steering values with fault injection.
+The graph to the right represents the curve for the deviation of true steering value with
+respect to the steering value with fault injection. The orange curve indicates the mean
+deviation of the 200 observations.
 
 
