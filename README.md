@@ -68,6 +68,9 @@ is large.
 
 ![blur](https://user-images.githubusercontent.com/117833435/205360989-bc7267d7-5e16-429f-b789-162212ea0dbb.png)  
 
+![bright](https://user-images.githubusercontent.com/117833435/205361185-76936eb2-1e74-49b1-ad63-6d9adc4c43a4.png)
+
+
 
 
 
