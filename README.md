@@ -35,7 +35,7 @@ white are the colours (255, 255, 255) and (0, 0, 0) respectively.
 Filters are mathematical functions which perform mathematical computations of the pixel
 values of the input image to produce a new image.The filters to manipulate the Brightness,
 Sharpness, Colour and Contrast were created using the PIL module ImageEnhance using
-separate functions.
+separate functions.  
 
 ![blur](https://user-images.githubusercontent.com/117833435/205360989-bc7267d7-5e16-429f-b789-162212ea0dbb.png)  
 
