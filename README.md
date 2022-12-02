@@ -49,6 +49,8 @@ of dirt, snow, fog, glass crack, rain are used as masking images. These transpar
 contain opaque regions representing the faults. Only the opaque regions of the transparent
 images are overlayed on the camera image frames. Python Imaging Library (PIL) is a python package used for implementing these faults.
 
+![dirt](https://user-images.githubusercontent.com/117833435/205362210-a3b7a0fe-86b0-4727-8b7b-8a259282cfc9.png)  
+
 3. Rain Drop Blur  
 Drops of water during the rainy season create a blurring effect on the surface of the glass.
 This blurring effect is caused only on the portion where the drop lies on the glass surface.
