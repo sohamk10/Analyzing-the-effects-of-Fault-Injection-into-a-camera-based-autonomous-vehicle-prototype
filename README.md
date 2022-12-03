@@ -106,6 +106,9 @@ The figures below show the plots for the fault Blur when injected into the AI sy
 
 ![r1](https://user-images.githubusercontent.com/117833435/205456857-0af8faaf-ed9d-44d5-af41-bfd6bf755965.png)
 
+![r2](https://user-images.githubusercontent.com/117833435/205456873-3196b307-efed-4eb3-a72d-75ce4fda5a03.png)
+
+
 
 
 
