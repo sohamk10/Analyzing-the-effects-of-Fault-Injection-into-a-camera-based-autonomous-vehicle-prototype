@@ -104,6 +104,7 @@ deviation of the 200 observations.
 
 The figures below show the plots for the fault Blur when injected into the AI system.  
 
+![r1](https://user-images.githubusercontent.com/117833435/205456857-0af8faaf-ed9d-44d5-af41-bfd6bf755965.png)
 
 
 
