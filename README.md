@@ -37,7 +37,7 @@ values of the input image to produce a new image.The filters to manipulate the B
 Sharpness, Colour and Contrast were created using the PIL module ImageEnhance using
 separate functions.  
 
-![blur](https://github.com/sohamk10/Fault-Injection-In-Autonomous-Vehicle./issues/2#issue-1473280339)  
+![blur](https://user-images.githubusercontent.com/117833435/205460743-80f1fc80-e115-4ebb-9201-1b26f4797760.png)
 
 
 2. Image superimposition filters  
