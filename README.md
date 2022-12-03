@@ -117,10 +117,10 @@ The figures below show the plots for the fault Blur when injected into the AI sy
 # Conclusion
 
 Autonomous Cars are attracting a growing attention in recent years, with new cutting edge
-technologies implemented in the vehicles. The desire and need for autonomous capabilities will keep increasing in the near future. Sensor technology, data-fusion, Artificial  
+technologies implemented in the vehicles. The desire and need for autonomous capabilities will keep increasing in the near future. Sensor technology, data-fusion, Artificial  
 Intelligence and Machine Learning applications are t play a huge role in autonomous
-driving systems. Amongst sensors, the RGB (red, green, and blue) camera is acknowledged to be most commonly used. Degraded images from the camera may lead to wrong
-decision-making by the AI system, which may lead to fatal accidents.
+driving systems. Amongst sensors, the RGB (red, green, and blue) camera is acknowledged to be most commonly used. Degraded images from the camera may lead to wrong
+decision-making by the AI system, which may lead to fatal accidents.  
 Likewise, In our Studienarbeit we have worked on the following. First, we identified
 faults of vehicle cameras in the domain of autonomous driving, by analysing the different
 faults and their causes. Secondly, we injected these faults into our AI system using python
