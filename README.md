@@ -102,4 +102,10 @@ The graph to the right represents the curve for the deviation of true steering v
 respect to the steering value with fault injection. The orange curve indicates the mean
 deviation of the 200 observations.
 
+The figures below show the plots for the fault Blur when injected into the AI system.  
+
+
+
+
+
 
