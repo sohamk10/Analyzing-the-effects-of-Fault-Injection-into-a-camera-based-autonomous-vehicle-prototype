@@ -37,7 +37,7 @@ values of the input image to produce a new image.The filters to manipulate the B
 Sharpness, Colour and Contrast were created using the PIL module ImageEnhance using
 separate functions.  
 
-![blur]([https://your-image-url.type](https://user-images.githubusercontent.com/117833435/205360989-bc7267d7-5e16-429f-b789-162212ea0dbb.png)  
+![blur](https://your-image-url.type](https://user-images.githubusercontent.com/117833435/205360989-bc7267d7-5e16-429f-b789-162212ea0dbb.png)  
 
 
 2. Image superimposition filters  
