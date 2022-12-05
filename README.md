@@ -119,10 +119,9 @@ The figures below show the plots for the fault Blur when injected into the AI sy
 # Conclusion
 
 Autonomous Cars are attracting a growing attention in recent years, with new cutting edge
-technologies implemented in the vehicles. The desire and need for autonomous capabilities will keep increasing in the near future. Sensor technology, data-fusion, Artificial  
-Intelligence and Machine Learning applications are t play a huge role in autonomous
+technologies implemented in the vehicles. The desire and need for autonomous capabilities will keep increasing in the near future. Sensor technology, data-fusion, Artificial Intelligence and Machine Learning applications are t play a huge role in autonomous
 driving systems. Amongst sensors, the RGB (red, green, and blue) camera is acknowledged to be most commonly used. Degraded images from the camera may lead to wrong
-decision-making by the AI system, which may lead to fatal accidents.  
+decision-making by the AI system, which may lead to fatal accidents.    
 Likewise, In our Studienarbeit we have worked on the following. First, we identified
 faults of vehicle cameras in the domain of autonomous driving, by analysing the different
 faults and their causes. Secondly, we injected these faults into our AI system using python
@@ -130,8 +129,7 @@ libraries that allowed simulating these camera failures. Thirdly, we integrated 
 faults into a user-friendly interface called Fault Injection Module.Each of the faults was
 implemented by varying the intensity and using different filters. The respective deviation
 in the steering value with respect to the true steering value was recorded. These deviations
-were plotted, and the mean deviation was used for comparison between different faults.
-After comparison of the results obtained, the faults with higher intensities namely Blur,
+were plotted, and the mean deviation was used for comparison between different faults.  After comparison of the results obtained, the faults with higher intensities namely Blur,
 Brightness, Salt and Pepper, Rain Drop Blur and specific filters of Image superposition
 faults cause a significant deviation greater than 60 percent. Such a high percentage
 deviation is very dangerous and the abnormal behaviour of the vehicle can be easily
